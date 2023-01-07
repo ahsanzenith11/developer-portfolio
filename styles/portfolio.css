@@ -30,7 +30,7 @@
   nav{
     display: flex;
     justify-content: space-around;
-    margin: 50px 200px;
+    padding: 50px 200px;
    
   }
   .nav-title{
@@ -198,6 +198,7 @@ margin-bottom: 10px;
   gap: 100px ;
   background: #FFF8F3;
   padding: 130px 200px;
+  
 }
 .contact .section-title{
   text-align: left;
@@ -209,6 +210,7 @@ margin-bottom: 10px;
   border: 0 ;
   width: 80%;
   padding: 18px 30px;
+
 }
 input
 {
